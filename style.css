@@ -1,0 +1,45 @@
+main h1 {
+    color: blue;
+}
+header h1 {
+    background-color: aqua color red;
+}
+span {
+    color: slategray;
+}
+article h1 {
+    font-family: "Franklin Gothic Medium";
+    color: blue;
+}
+
+/* 
+article: .satu;
+    background-color: red;
+    color: aqua;
+} */
+
+article.satu {
+    background-color: aqua;
+    color: greenyellow;
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bold;
+    border: 30px;
+}
+article.dua{
+    background-color: pink;
+    color:red;
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bold;
+    border: 30px;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
